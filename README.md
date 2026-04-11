@@ -2,7 +2,7 @@
 
 # Communication Protocols: UART, SPI, and I²C
 
-A comprehensive implementation and guide for standard serial communication protocols used in embedded systems. This repository includes C/C++ implementations for UART, SPI, and I²C, configured for seamless development using Visual Studio Code and GitHub.
+A comprehensive implementation and guide for standard serial communication protocols used in embedded systems. This repository includes Verilog implementations for UART, SPI, and I²C
 
 ---
 
